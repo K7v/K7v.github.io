@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%98%E9%87%8F%E4%B8%8E%E8%B5%8B%E5%80%BC/</loc>
+    <lastmod>2017-01-17T04:40:22.785Z</lastmod>
+    <data>
+        <display>
+        <title>Python学习笔记-变量与赋值</title>
+        <pubTime>2017-01-16T14:14:00.000Z</pubTime>
+        
+        <tag>Python学习笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://k7v.cn/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Hello-py/</loc>
+    <lastmod>2017-01-17T04:40:00.165Z</lastmod>
+    <data>
+        <display>
+        <title>Python学习笔记-Hello-py</title>
+        <pubTime>2017-01-16T14:13:28.000Z</pubTime>
+        
+        <tag>Python学习笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://k7v.cn/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://k7v.cn/2017/01/16/Next%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2017-01-16T13:13:42.830Z</lastmod>
+    <data>
+        <display>
+        <title>Next主题指南</title>
+        <pubTime>2017-01-16T10:44:31.000Z</pubTime>
+        
+        <tag>Next</tag>
+         
+         
+           
+             
+              <breadCrumb title="指南" url="http://k7v.cn/categories/%E6%8C%87%E5%8D%97/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://k7v.cn/2017/01/16/hello-world/</loc>
+    <lastmod>2017-01-16T04:39:05.100Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-01-16T04:39:05.100Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>

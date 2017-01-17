@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[Python学习笔记-变量与赋值]]></title>
+      <url>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%98%E9%87%8F%E4%B8%8E%E8%B5%8B%E5%80%BC/</url>
+      <content type="html"><![CDATA[<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><p> <strong>变量: 就是一个可以定义值的量。(语文不好,,Ծ^Ծ,,)</strong><br> <strong>变量的作用: 昵称，其代指内存里某个地址中保存的内容</strong>   </p>
+<ul>
+<li>变量名的第一个字符不能是数字</li>
+<li>以下关键字不是声明为变量<br>and, as, assert, break, class, continue, def, del, if, imort, in, is, not, or, pass, print (还有几个给忘了，百度可以找到)</li>
+</ul>
+<p><strong>例子</strong><br><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">a = &quot;K7m&quot;</div><div class="line"></div><div class="line">print(a)    #注意print括号内加引号的都是字符，没有引号的都是变量</div></pre></td></tr></table></figure></p>
+<p> <code>&gt;&gt;&gt; K7v</code> </p>
+<h4 id="还能这样玩"><a href="#还能这样玩" class="headerlink" title="还能这样玩"></a>还能这样玩</h4><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">name = &quot;K7v&quot;</div><div class="line">age = &quot;38&quot;</div><div class="line"></div><div class="line">print(name,age)</div></pre></td></tr></table></figure>
+<p> <code>&gt;&gt;&gt; K7v 38</code></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Python学习笔记-Hello-py]]></title>
+      <url>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Hello-py/</url>
+      <content type="html"><![CDATA[<p>####先看看完整的代码<br><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">print(&quot;Hello Py&quot;)</div></pre></td></tr></table></figure></p>
+<p>####解释<br><code>#!/usr/bin/python</code>   linux变量.<br><code>print(&quot;Hello Py&quot;)</code>  print英文意思是打印，就是打印括号内的文字，记住格式.</p>
+<h4 id="我们还可以这样"><a href="#我们还可以这样" class="headerlink" title="我们还可以这样"></a>我们还可以这样</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">#!/usr/bin/env python</div><div class="line">print(&quot;Hello \n K7v&quot;)</div></pre></td></tr></table></figure>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Next主题指南]]></title>
+      <url>http://k7v.cn/2017/01/16/Next%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8D%97/</url>
+      <content type="html"><![CDATA[<h1 id="NexT"><a href="#NexT" class="headerlink" title="NexT"></a>NexT</h1><blockquote>
+<p>精于心，简于形</p>
+</blockquote>
+<p><a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  <a href="README.en.md">English Documentation</a></p>
+<p><a href="https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" target="_blank" rel="external"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/iissnan/hexo-theme-next"></a></p>
+<p><img src="http://iissnan.com/nexus/next/next-schemes.jpg" alt="NexT Schemes"></p>
+<h2 id="浏览器支持-Browser-support"><a href="#浏览器支持-Browser-support" class="headerlink" title="浏览器支持 Browser support"></a>浏览器支持 Browser support</h2><p><img src="http://iissnan.com/nexus/next/browser-support.png" alt="Browser support"></p>
+<h2 id="贡献-Contributing"><a href="#贡献-Contributing" class="headerlink" title="贡献 Contributing"></a>贡献 Contributing</h2><p>接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的<code>Pull Request</code>。</p>
+<p>Any types of contribution are welcome. Thanks.</p>
+<h2 id="开发-Development"><a href="#开发-Development" class="headerlink" title="开发 Development"></a>开发 Development</h2><p>NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。</p>
+<p>NexT is built for easily use with elegant appearance. First things first, always keep things simple.</p>
+<h2 id="开发历史-Changelog"><a href="#开发历史-Changelog" class="headerlink" title="开发历史 Changelog"></a><a href="https://github.com/iissnan/hexo-theme-next/wiki/Changelog" target="_blank" rel="external">开发历史 Changelog</a></h2><p><a href="http://hexo.io" target="_blank" rel="external"><img src="http://img.shields.io/badge/Hexo-2.4+-2BAF2B.svg?style=flat-square" alt="hexo-image"></a><br><a href="http://bower.io" target="_blank" rel="external"><img src="http://img.shields.io/badge/Bower-*-2BAF2B.svg?style=flat-square" alt="bower-image"></a><br><a href="http://jquery.com/" target="_blank" rel="external"><img src="https://img.shields.io/badge/jquery-2.1-2BAF2B.svg?style=flat-square" alt="jquery-image"></a><br><a href="http://julian.com/research/velocity/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Velocity-1.2-2BAF2B.svg?style=flat-square" alt="velocity-image"></a></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://k7v.cn/2017/01/16/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
