@@ -4,16 +4,67 @@
   
     
     <entry>
+      <title><![CDATA[Python学习笔记-格式化输出]]></title>
+      <url>http://k7v.cn/2017/01/17/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%87%BA/</url>
+      <content type="html"><![CDATA[<h2 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h2><blockquote>
+<p>三个单引号或者三个双引号中间的内容是被注释的  </p>
+<blockquote>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"></div><div class="line"><span class="string">"""</span></div><div class="line">被注释的内容</div><div class="line">"""</div></pre></td></tr></table></figure>
+</blockquote>
+</blockquote>
+<hr>
+<blockquote>
+<p>一个井号注释一排  </p>
+<blockquote>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"></div><div class="line"><span class="comment">#注释内容</span></div></pre></td></tr></table></figure>
+</blockquote>
+</blockquote>
+<hr>
+<h2 id="格式化输出"><a href="#格式化输出" class="headerlink" title="格式化输出"></a>格式化输出</h2><blockquote>
+<p>用处很多，也简单。<br>就简单的记录下吧。<br>这里的三个双引号不同</p>
+</blockquote>
+<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"></div><div class="line">name = <span class="string">"K7v"</span></div><div class="line">age = <span class="number">100</span></div><div class="line"></div><div class="line">logo = <span class="string">"""</span></div><div class="line">================================</div><div class="line">            格式化输出</div><div class="line">   我是: %s           %s :岁</div><div class="line">================================</div><div class="line">""" %(name, age)</div><div class="line"></div><div class="line">print(logo)</div></pre></td></tr></table></figure>
+<p><img src="/images/blog/IMG_20170117_222232.jpg" alt="image"></p>
+<p><img src="/images/blog/IMG_20170117_222316.jpg" alt="image"></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[安卓神器Termux]]></title>
+      <url>http://k7v.cn/2017/01/17/%E5%AE%89%E5%8D%93%E7%A5%9E%E5%99%A8Termux/</url>
+      <content type="html"><![CDATA[<hr>
+<h2 id="Termux"><a href="#Termux" class="headerlink" title="Termux"></a>Termux</h2><p>高级终端Termux组合了强大的终端模拟和拓展Linux包收集支持。</p>
+<ul>
+<li>享受bash 和 zsh。</li>
+<li>使用nano 和 vim编辑文件。</li>
+<li>通过ssh访问服务器。</li>
+<li>使用gcc和clang编译代码。</li>
+<li>使用python控制台来作为口袋计算器。</li>
+<li>使用git 和 subversion检查项目。</li>
+<li>使用frotz运行基于文本的游戏。</li>
+</ul>
+<hr>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="/images/blog/IMG_20170117_213120.jpg" alt="image">  </p>
+<p><img src="/images/blog/IMG_20170117_213144.jpg" alt="image">  </p>
+<p><img src="/images/blog/IMG_20170117_213221.jpg" alt="image">  </p>
+<hr>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><blockquote>
+<p>酷市场下载</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Python学习笔记-变量与赋值]]></title>
       <url>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%98%E9%87%8F%E4%B8%8E%E8%B5%8B%E5%80%BC/</url>
-      <content type="html"><![CDATA[<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><p> <strong>变量: 就是一个可以定义值的量。(语文不好,,Ծ^Ծ,,)</strong><br> <strong>变量的作用: 昵称，其代指内存里某个地址中保存的内容</strong>   </p>
+      <content type="html"><![CDATA[<h2 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h2><p> <strong>变量: 就是一个可以定义值的量。(语文不好,,Ծ^Ծ,,)</strong><br> <strong>变量的作用: 昵称，其代指内存里某个地址中保存的内容</strong>   </p>
 <ul>
 <li>变量名的第一个字符不能是数字</li>
 <li>以下关键字不是声明为变量<br>and, as, assert, break, class, continue, def, del, if, imort, in, is, not, or, pass, print (还有几个给忘了，百度可以找到)</li>
 </ul>
-<p><strong>例子</strong><br><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">a = &quot;K7m&quot;</div><div class="line"></div><div class="line">print(a)    #注意print括号内加引号的都是字符，没有引号的都是变量</div></pre></td></tr></table></figure></p>
+<p><strong>例子</strong><br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line">a = <span class="string">"K7m"</span></div><div class="line"></div><div class="line">print(a)    <span class="comment">#注意print括号内加引号的都是字符，没有引号的都是变量</span></div></pre></td></tr></table></figure></p>
 <p> <code>&gt;&gt;&gt; K7v</code> </p>
-<h4 id="还能这样玩"><a href="#还能这样玩" class="headerlink" title="还能这样玩"></a>还能这样玩</h4><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">name = &quot;K7v&quot;</div><div class="line">age = &quot;38&quot;</div><div class="line"></div><div class="line">print(name,age)</div></pre></td></tr></table></figure>
+<h2 id="还能这样玩"><a href="#还能这样玩" class="headerlink" title="还能这样玩"></a>还能这样玩</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line">name = <span class="string">"K7v"</span></div><div class="line">age = <span class="string">"38"</span></div><div class="line"></div><div class="line">print(name,age)</div></pre></td></tr></table></figure>
 <p> <code>&gt;&gt;&gt; K7v 38</code></p>
 ]]></content>
     </entry>
@@ -21,9 +72,9 @@
     <entry>
       <title><![CDATA[Python学习笔记-Hello-py]]></title>
       <url>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Hello-py/</url>
-      <content type="html"><![CDATA[<p>####先看看完整的代码<br><figure class="highlight plain"><figcaption><span>python</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">print(&quot;Hello Py&quot;)</div></pre></td></tr></table></figure></p>
-<p>####解释<br><code>#!/usr/bin/python</code>   linux变量.<br><code>print(&quot;Hello Py&quot;)</code>  print英文意思是打印，就是打印括号内的文字，记住格式.</p>
-<h4 id="我们还可以这样"><a href="#我们还可以这样" class="headerlink" title="我们还可以这样"></a>我们还可以这样</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">#!/usr/bin/env python</div><div class="line">print(&quot;Hello \n K7v&quot;)</div></pre></td></tr></table></figure>
+      <content type="html"><![CDATA[<h2 id="先看看完整的代码"><a href="#先看看完整的代码" class="headerlink" title="先看看完整的代码"></a>先看看完整的代码</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"></div><div class="line">print(<span class="string">"Hello Py"</span>)</div></pre></td></tr></table></figure>
+<h2 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h2><p><code>#!/usr/bin/python</code>   linux变量.<br><code>print(&quot;Hello Py&quot;)</code>  print英文意思是打印，就是打印括号内的文字，记住格式.</p>
+<h2 id="我们还可以这样"><a href="#我们还可以这样" class="headerlink" title="我们还可以这样"></a>我们还可以这样</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">#!/usr/bin/env python</div><div class="line">print(&quot;Hello \n K7v&quot;)</div></pre></td></tr></table></figure>
 ]]></content>
     </entry>
     

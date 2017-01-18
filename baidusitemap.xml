@@ -3,10 +3,49 @@
 
 
     
+  <url>
+    <loc>http://k7v.cn/2017/01/17/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%87%BA/</loc>
+    <lastmod>2017-01-17T15:12:42.700Z</lastmod>
+    <data>
+        <display>
+        <title>Python学习笔记-格式化输出</title>
+        <pubTime>2017-01-17T14:50:46.000Z</pubTime>
+        
+        <tag>Python学习笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://k7v.cn/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://k7v.cn/2017/01/17/%E5%AE%89%E5%8D%93%E7%A5%9E%E5%99%A8Termux/</loc>
+    <lastmod>2017-01-17T15:00:27.040Z</lastmod>
+    <data>
+        <display>
+        <title>安卓神器Termux</title>
+        <pubTime>2017-01-17T13:46:24.000Z</pubTime>
+        
+        <tag>Termux</tag>
+         
+         
+           
+             
+              <breadCrumb title="安卓神器" url="http://k7v.cn/categories/%E5%AE%89%E5%8D%93%E7%A5%9E%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%98%E9%87%8F%E4%B8%8E%E8%B5%8B%E5%80%BC/</loc>
-    <lastmod>2017-01-17T04:40:22.785Z</lastmod>
+    <lastmod>2017-01-17T14:59:48.630Z</lastmod>
     <data>
         <display>
         <title>Python学习笔记-变量与赋值</title>
@@ -26,7 +65,7 @@
     
   <url>
     <loc>http://k7v.cn/2017/01/16/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Hello-py/</loc>
-    <lastmod>2017-01-17T04:40:00.165Z</lastmod>
+    <lastmod>2017-01-17T14:59:28.500Z</lastmod>
     <data>
         <display>
         <title>Python学习笔记-Hello-py</title>
@@ -43,6 +82,7 @@
     </data>
     </url>
 
+    
     
     
     
